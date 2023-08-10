@@ -2,21 +2,17 @@
  
 ## To Complete This Assignment: 
 
-1. Using HTML, Create a one-page personal, professional portfolio page 
-highlight your skills, projects and achievements. Content should include a short 
-bio and image, a list of your skills, highlights of at least four projects (with text 
-and image) and a way to connect with you (this could be a form, a link to email, 
-social links etc. The form does not need to be functional).
+1. Using HTML, Create a one-page personal, professional portfolio page highlight your skills, projects and achievements. Content should include a short bio and image, a list of your skills, highlights of at least four projects (with text and image) and a way to connect with you (this could be a form, a link to email, social links etc. The form does not need to be functional).
 
 2. Style the page using CSS. Your CSS must:
 - be well-organized, properly formatted, efficient and valid, with helpful comments added.
 - include commented examples of at least four different types of selectors.
 - include a locally hosted web font applied to heading text and an externally hosted web font applied to the body text.
 - use CSS properties to set font-size, line-height, letter-spacing, textcolour etc.
-- utilize margin and padding to enhance the overall interface design and follow best practices when styling common UI components (navigation, lists, links, tables etc.)
-- modify background colours and include background images to enhance the overall design, while still maintaining accessibility for all users
+- utilize margin and padding to enhance the overall interface design and follow best practices when styling common UI components (navigation, lists, links, tables etc.).
+- modify background colours and include background images to enhance the overall design, while still maintaining accessibility for all users.
 - utilize Grid, Flexbox (or both) where appropriate in order to create interesting layouts.
-- incorporate a mobile first, responsive design strategy 
+- incorporate a mobile first, responsive design strategy.
 
 My Final Version...
 
