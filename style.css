@@ -17,17 +17,8 @@ body {
 }
 
 @font-face {
-    font-family: 'IBMPlexSans-Italic';
-    src: url(fonts/IBMPlexSans-Italic.otf);
-}
-
-@font-face {
     font-family: 'IBMPlexSans-Medium';
     src: url(fonts/IBMPlexSans-Medium.otf);
-}
-@font-face {
-    font-family: 'IBMPlexSans-Regular';
-    src: url(fonts/IBMPlexSans-Regular.otf);
 }
 
 /* Element Selector */
