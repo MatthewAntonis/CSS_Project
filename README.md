@@ -17,7 +17,7 @@
 My Final Version...
 
 <p align="center">
-<img width="400" src="https://github.com/MatthewAntonis/CSS_Project/assets/122380719/bf53f0f6-90d9-427c-93f7-1e11d7a32cc2">
+<img width="800" src="https://github.com/MatthewAntonis/CSS_Project/assets/122380719/bf53f0f6-90d9-427c-93f7-1e11d7a32cc2">
 </p>
 
 Notes: 
